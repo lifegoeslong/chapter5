@@ -40,3 +40,5 @@ three things are listed here <br>
 输出战斗结果：
 
 根据最终战斗结果输出胜利信息。
+
+PS: 由于rust level有限，该游戏各数值均已设定(result is same)
